@@ -36,7 +36,7 @@
     "service"
   ],
   "dependencies": {
-    "@angular/core": "^2.4.0",
+    "@angular/core": "^19.2.18",
     "rxjs": "^5.0.1",
     "zone.js": "^0.7.2"
 
